@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>requiredIconsForGUI/boy.png</file>
+    <file>requiredIconsForGUI/boy-1.png</file>
+    <file>requiredIconsForGUI/camera.png</file>
+    <file>requiredIconsForGUI/facial-recognition.png</file>
+    <file>requiredIconsForGUI/gear.png</file>
+    <file>requiredIconsForGUI/girl.png</file>
+    <file>requiredIconsForGUI/girl-1.png</file>
+    <file>requiredIconsForGUI/man.png</file>
+    <file>requiredIconsForGUI/man-1.png</file>
+    <file>requiredIconsForGUI/man-2.png</file>
+    <file>requiredIconsForGUI/man-3.png</file>
+    <file>requiredIconsForGUI/man-4.png</file>
+    <file>requiredIconsForGUI/photograph.png</file>
+    <file>requiredIconsForGUI/picture.png</file>
+    <file>requiredIconsForGUI/search.png</file>
+    <file>requiredIconsForGUI/team.png</file>
+    <file>requiredIconsForGUI/teamwork.png</file>
+  </qresource>
+</RCC>

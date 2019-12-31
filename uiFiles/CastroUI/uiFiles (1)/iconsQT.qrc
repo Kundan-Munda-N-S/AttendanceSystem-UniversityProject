@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>uiFiles/boy.png</file>
+    <file>uiFiles/boy-1.png</file>
+    <file>uiFiles/camera.png</file>
+    <file>uiFiles/facial-recognition.png</file>
+    <file>uiFiles/gear.png</file>
+    <file>uiFiles/girl.png</file>
+    <file>uiFiles/girl-1.png</file>
+    <file>uiFiles/kundan.jpeg</file>
+    <file>uiFiles/man.png</file>
+    <file>uiFiles/man-1.png</file>
+    <file>uiFiles/man-2.png</file>
+    <file>uiFiles/man-3.png</file>
+    <file>uiFiles/man-4.png</file>
+    <file>uiFiles/photograph.png</file>
+    <file>uiFiles/picture.png</file>
+    <file>uiFiles/prudhvi.png</file>
+    <file>uiFiles/search.png</file>
+    <file>uiFiles/team.png</file>
+    <file>uiFiles/teamwork.png</file>
+  </qresource>
+</RCC>

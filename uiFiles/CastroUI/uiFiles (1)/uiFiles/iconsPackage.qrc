@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>facial-recognition.png</file>
+    <file>picture.png</file>
+    <file>boy-1.png</file>
+    <file>man.png</file>
+    <file>man-1.png</file>
+    <file>photograph.png</file>
+    <file>teamwork.png</file>
+    <file>team.png</file>
+    <file>gear.png</file>
+    <file>teamwork.png</file>
+    <file>girl.png</file>
+    <file>girl-1.png</file>
+  </qresource>
+  <qresource prefix="photos">
+    <file>castro.png</file>
+    <file>prudhvi.png</file>
+    <file>kundan.jpeg</file>
+    <file>azra.jpeg</file>
+  </qresource>
+</RCC>
