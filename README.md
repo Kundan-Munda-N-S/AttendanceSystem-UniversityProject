@@ -19,8 +19,8 @@
   - [twitterAggregator()](#11a-twitteraggregator)
   - [facebookAggregator()](#11b-facebookaggregator)
   - [instragramAggregator()](#11c-instragramaggregator)
-  - [redditAggregator()](#11dredditaggregator)
-  - [starkAggregator()](#11estarkaggregator)
+  - [redditAggregator()](#11dredditAggregator)
+  - [starkAggregator()](#11estarkAggregator)
 - **[class : WeeklyDataCollectionReport](#12-class--WeeklyDataCollectionReport)**
   - [dateRangeGenerator()](#12a-daterangegenerator)
   - [sendSlackMessage()](#12b-sendslackmessage)
