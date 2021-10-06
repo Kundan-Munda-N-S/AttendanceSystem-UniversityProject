@@ -20,9 +20,9 @@
   - [facebookAggregator()](#11b-facebookaggregator)
   - [instragramAggregator()](#11c-instragramaggregator)
   - [redditAggregator()](#11dredditaggregator)
-  - [starkAggregator()](#11estarkAggregator)
+  - [starkAggregator()](#11estarkaggregator)
 - **[class : WeeklyDataCollectionReport](#12-class--WeeklyDataCollectionReport)**
-  - [dateRangeGenerator()](#12a-dateRangeGenerator)
+  - [dateRangeGenerator()](#12a-daterangegenerator)
   - [sendSlackMessage()](#12b-sendslackmessage)
   - [dataAggregatorReport()](#12c-dataaggregatorreport)
 - **[main()](#)**
