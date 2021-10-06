@@ -15,10 +15,10 @@
 
 ### 1. Program Structure
 
-- **[class : DataAggregatorReport](#1.1-class-:-DataAggregatorReport)**
-  - [twitterAggregator()](#1.1.a-twitterAggregator())
-  - [facebookAggregator()](#1.1.b-facebookAggregator())
-  - [instragramAggregator()](#1.1.c-instragramAggregator())
+- **[class : DataAggregatorReport](#1-1-class-:-DataAggregatorReport)**
+  - [twitterAggregator()](#1-1-a-twitteraggregator())
+  - [facebookAggregator()](#b-facebookaggregator())
+  - [instragramAggregator()](#c-instragramAggregator())
   - [redditAggregator()](#1.1.d-redditAggregator())
   - [starkAggregator()](#1.1.e-starkAggregator())
 - **[class : WeeklyDataCollectionReport](#1.2-class-:-WeeklyDataCollectionReport)**
