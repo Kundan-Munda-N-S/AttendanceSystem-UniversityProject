@@ -16,8 +16,8 @@
 ### 1. Program Structure
 
 - **[class : DataAggregatorReport](#1-1-class-:-dataaggregatorreport)**
-  - [twitterAggregator()](#1-1-a-twitteraggregator())
-  - [facebookAggregator()](#b-facebookaggregator())
+  - [twitterAggregator()](#11a-twitteraggregator())
+  - [facebookAggregator()](#11b-facebookaggregator)
   - [instragramAggregator()](#c-instragramaggregator)
   - [redditAggregator()](#redditaggregator())
   - [starkAggregator()](#starkAggregator)
