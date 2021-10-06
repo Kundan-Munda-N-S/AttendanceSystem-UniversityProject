@@ -15,16 +15,16 @@
 
 ### 1. Program Structure
 
-- **[class : DataAggregatorReport](#1-1-class-:-dataaggregatorreport)**
-  - [twitterAggregator()](#11a-twitteraggregator())
+- **[class : DataAggregatorReport](#11-class--dataaggregatorreport)**
+  - [twitterAggregator()](#11a-twitteraggregator)
   - [facebookAggregator()](#11b-facebookaggregator)
-  - [instragramAggregator()](#c-instragramaggregator)
-  - [redditAggregator()](#redditaggregator())
-  - [starkAggregator()](#starkAggregator)
-- **[class : WeeklyDataCollectionReport](#1.2-class-:-WeeklyDataCollectionReport)**
-  - [dateRangeGenerator()](#1.2.a-dateRangeGenerator())
-  - [sendSlackMessage()](#1.2.b-sendslackmessage())
-  - [dataAggregatorReport()](#1.2.c-dataaggregatorreport())
+  - [instragramAggregator()](#11c-instragramaggregator)
+  - [redditAggregator()](#11dredditaggregator)
+  - [starkAggregator()](#11estarkAggregator)
+- **[class : WeeklyDataCollectionReport](#12-class--WeeklyDataCollectionReport)**
+  - [dateRangeGenerator()](#12a-dateRangeGenerator)
+  - [sendSlackMessage()](#12b-sendslackmessage)
+  - [dataAggregatorReport()](#12c-dataaggregatorreport)
 - **[main()](#)**
 
 ##### 1.1 class : DataAggregatorReport
