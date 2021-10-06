@@ -9,8 +9,8 @@
 <!-- table of contents -->
 ## Table of Contents
 - [1. Program Structure](#1-program-structure) 
-- [2. Dependencies used](#2.-dependencies-used)
-- [3. SQL Queries Used](#3.-sql-queries_used)
+- [2. Dependencies used](#2-dependencies-used)
+- [3. SQL Queries Used](#3-sql-queries_used)
 ---
 
 ### 1. Program Structure
